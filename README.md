@@ -6,6 +6,6 @@
 
 - 🧑🏾‍💻 I’m a fullstack Developer with more than 3 years of experience building SaaS and Paas applications with Javascript technologies.
 
-- 🌱 I’m currently learning Advance concepts of Javascript, like Javascript under the hood, building optimized React application, Node.js under the hood e.t.c I basically want to graps lowel level concepts of how things work
-- 
+- 🌱 I’m currently learning Advance concepts of Javascript, like Javascript under the hood, building optimized React application, Node.js under the hood e.t.c I basically want to graps lowel level concepts of how things work within technologies I work with.
+
 ... In progress ...
